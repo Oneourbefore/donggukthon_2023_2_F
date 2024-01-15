@@ -91,6 +91,6 @@ donggukthon_2023_2_B
 
 
 
-## Front-end Repository
+## Back-end Repository
 
-https://github.com/donggukthon/donggukthon_2023_2_F
+https://github.com/donggukthon/donggukthon_2023_2_B
